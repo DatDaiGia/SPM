@@ -1,0 +1,272 @@
+c:\users\sunny\documents\visual studio 2015\Projects\PTXDPM\PTXDPM\bin\roslyn\csc.exe
+c:\users\sunny\documents\visual studio 2015\Projects\PTXDPM\PTXDPM\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\sunny\documents\visual studio 2015\Projects\PTXDPM\PTXDPM\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\sunny\documents\visual studio 2015\Projects\PTXDPM\PTXDPM\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\sunny\documents\visual studio 2015\Projects\PTXDPM\PTXDPM\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\sunny\documents\visual studio 2015\Projects\PTXDPM\PTXDPM\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\sunny\documents\visual studio 2015\Projects\PTXDPM\PTXDPM\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\sunny\documents\visual studio 2015\Projects\PTXDPM\PTXDPM\bin\roslyn\System.Collections.Immutable.dll
+c:\users\sunny\documents\visual studio 2015\Projects\PTXDPM\PTXDPM\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\sunny\documents\visual studio 2015\Projects\PTXDPM\PTXDPM\bin\roslyn\vbc.exe
+c:\users\sunny\documents\visual studio 2015\Projects\PTXDPM\PTXDPM\bin\roslyn\VBCSCompiler.exe
+c:\users\sunny\documents\visual studio 2015\Projects\PTXDPM\PTXDPM\bin\roslyn\VBCSCompiler.exe.config
+c:\users\sunny\documents\visual studio 2015\Projects\PTXDPM\PTXDPM\bin\PTXDPM.dll.config
+c:\users\sunny\documents\visual studio 2015\Projects\PTXDPM\PTXDPM\bin\PTXDPM.dll
+c:\users\sunny\documents\visual studio 2015\Projects\PTXDPM\PTXDPM\bin\PTXDPM.pdb
+c:\users\sunny\documents\visual studio 2015\Projects\PTXDPM\PTXDPM\bin\Antlr3.Runtime.dll
+c:\users\sunny\documents\visual studio 2015\Projects\PTXDPM\PTXDPM\bin\AspNet.ScriptManager.bootstrap.dll
+c:\users\sunny\documents\visual studio 2015\Projects\PTXDPM\PTXDPM\bin\AspNet.ScriptManager.jQuery.dll
+c:\users\sunny\documents\visual studio 2015\Projects\PTXDPM\PTXDPM\bin\EntityFramework.dll
+c:\users\sunny\documents\visual studio 2015\Projects\PTXDPM\PTXDPM\bin\EntityFramework.SqlServer.dll
+c:\users\sunny\documents\visual studio 2015\Projects\PTXDPM\PTXDPM\bin\Microsoft.AspNet.FriendlyUrls.dll
+c:\users\sunny\documents\visual studio 2015\Projects\PTXDPM\PTXDPM\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\sunny\documents\visual studio 2015\Projects\PTXDPM\PTXDPM\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\sunny\documents\visual studio 2015\Projects\PTXDPM\PTXDPM\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\sunny\documents\visual studio 2015\Projects\PTXDPM\PTXDPM\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+c:\users\sunny\documents\visual studio 2015\Projects\PTXDPM\PTXDPM\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\sunny\documents\visual studio 2015\Projects\PTXDPM\PTXDPM\bin\Microsoft.Owin.dll
+c:\users\sunny\documents\visual studio 2015\Projects\PTXDPM\PTXDPM\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\sunny\documents\visual studio 2015\Projects\PTXDPM\PTXDPM\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\sunny\documents\visual studio 2015\Projects\PTXDPM\PTXDPM\bin\Microsoft.Owin.Security.dll
+c:\users\sunny\documents\visual studio 2015\Projects\PTXDPM\PTXDPM\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\sunny\documents\visual studio 2015\Projects\PTXDPM\PTXDPM\bin\Microsoft.Owin.Security.Google.dll
+c:\users\sunny\documents\visual studio 2015\Projects\PTXDPM\PTXDPM\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\sunny\documents\visual studio 2015\Projects\PTXDPM\PTXDPM\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\sunny\documents\visual studio 2015\Projects\PTXDPM\PTXDPM\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\sunny\documents\visual studio 2015\Projects\PTXDPM\PTXDPM\bin\Microsoft.ScriptManager.MSAjax.dll
+c:\users\sunny\documents\visual studio 2015\Projects\PTXDPM\PTXDPM\bin\Microsoft.ScriptManager.WebForms.dll
+c:\users\sunny\documents\visual studio 2015\Projects\PTXDPM\PTXDPM\bin\Microsoft.Web.Infrastructure.dll
+c:\users\sunny\documents\visual studio 2015\Projects\PTXDPM\PTXDPM\bin\Newtonsoft.Json.dll
+c:\users\sunny\documents\visual studio 2015\Projects\PTXDPM\PTXDPM\bin\Owin.dll
+c:\users\sunny\documents\visual studio 2015\Projects\PTXDPM\PTXDPM\bin\System.Web.Optimization.dll
+c:\users\sunny\documents\visual studio 2015\Projects\PTXDPM\PTXDPM\bin\System.Web.Providers.dll
+c:\users\sunny\documents\visual studio 2015\Projects\PTXDPM\PTXDPM\bin\WebGrease.dll
+c:\users\sunny\documents\visual studio 2015\Projects\PTXDPM\PTXDPM\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\sunny\documents\visual studio 2015\Projects\PTXDPM\PTXDPM\bin\System.Web.Optimization.xml
+c:\users\sunny\documents\visual studio 2015\Projects\PTXDPM\PTXDPM\bin\Antlr3.Runtime.pdb
+c:\users\sunny\documents\visual studio 2015\Projects\PTXDPM\PTXDPM\bin\Newtonsoft.Json.xml
+c:\users\sunny\documents\visual studio 2015\Projects\PTXDPM\PTXDPM\bin\Microsoft.AspNet.FriendlyUrls.xml
+c:\users\sunny\documents\visual studio 2015\Projects\PTXDPM\PTXDPM\bin\EntityFramework.xml
+c:\users\sunny\documents\visual studio 2015\Projects\PTXDPM\PTXDPM\bin\EntityFramework.SqlServer.xml
+c:\users\sunny\documents\visual studio 2015\Projects\PTXDPM\PTXDPM\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\sunny\documents\visual studio 2015\Projects\PTXDPM\PTXDPM\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\sunny\documents\visual studio 2015\Projects\PTXDPM\PTXDPM\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\sunny\documents\visual studio 2015\Projects\PTXDPM\PTXDPM\bin\System.Web.Providers.xml
+c:\users\sunny\documents\visual studio 2015\Projects\PTXDPM\PTXDPM\bin\Microsoft.Owin.xml
+c:\users\sunny\documents\visual studio 2015\Projects\PTXDPM\PTXDPM\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\sunny\documents\visual studio 2015\Projects\PTXDPM\PTXDPM\bin\Microsoft.Owin.Security.xml
+c:\users\sunny\documents\visual studio 2015\Projects\PTXDPM\PTXDPM\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\sunny\documents\visual studio 2015\Projects\PTXDPM\PTXDPM\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\sunny\documents\visual studio 2015\Projects\PTXDPM\PTXDPM\bin\Microsoft.Owin.Security.Google.xml
+c:\users\sunny\documents\visual studio 2015\Projects\PTXDPM\PTXDPM\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\sunny\documents\visual studio 2015\Projects\PTXDPM\PTXDPM\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\sunny\documents\visual studio 2015\Projects\PTXDPM\PTXDPM\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\sunny\documents\visual studio 2015\Projects\PTXDPM\PTXDPM\obj\Debug\PTXDPM.csprojResolveAssemblyReference.cache
+c:\users\sunny\documents\visual studio 2015\Projects\PTXDPM\PTXDPM\obj\Debug\PTXDPM.dll
+c:\users\sunny\documents\visual studio 2015\Projects\PTXDPM\PTXDPM\obj\Debug\PTXDPM.pdb
+c:\users\sunny\documents\visual studio 2015\Projects\PTXDPM\PTXDPM\bin\Data.dll
+c:\users\sunny\documents\visual studio 2015\Projects\PTXDPM\PTXDPM\bin\Data.pdb
+C:\Users\sunny\Desktop\PTXDPM\PTXDPM\obj\Debug\PTXDPM.csprojResolveAssemblyReference.cache
+C:\Users\sunny\Desktop\PTXDPM\PTXDPM\bin\roslyn\csc.exe
+C:\Users\sunny\Desktop\PTXDPM\PTXDPM\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\sunny\Desktop\PTXDPM\PTXDPM\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sunny\Desktop\PTXDPM\PTXDPM\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\sunny\Desktop\PTXDPM\PTXDPM\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\sunny\Desktop\PTXDPM\PTXDPM\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\sunny\Desktop\PTXDPM\PTXDPM\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\sunny\Desktop\PTXDPM\PTXDPM\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\sunny\Desktop\PTXDPM\PTXDPM\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\sunny\Desktop\PTXDPM\PTXDPM\bin\roslyn\vbc.exe
+C:\Users\sunny\Desktop\PTXDPM\PTXDPM\bin\roslyn\VBCSCompiler.exe
+C:\Users\sunny\Desktop\PTXDPM\PTXDPM\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\sunny\Desktop\PTXDPM\PTXDPM\bin\PTXDPM.dll.config
+C:\Users\sunny\Desktop\PTXDPM\PTXDPM\bin\PTXDPM.dll
+C:\Users\sunny\Desktop\PTXDPM\PTXDPM\bin\PTXDPM.pdb
+C:\Users\sunny\Desktop\PTXDPM\PTXDPM\bin\Antlr3.Runtime.dll
+C:\Users\sunny\Desktop\PTXDPM\PTXDPM\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\sunny\Desktop\PTXDPM\PTXDPM\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\sunny\Desktop\PTXDPM\PTXDPM\bin\Data.dll
+C:\Users\sunny\Desktop\PTXDPM\PTXDPM\bin\EntityFramework.dll
+C:\Users\sunny\Desktop\PTXDPM\PTXDPM\bin\EntityFramework.SqlServer.dll
+C:\Users\sunny\Desktop\PTXDPM\PTXDPM\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\sunny\Desktop\PTXDPM\PTXDPM\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\sunny\Desktop\PTXDPM\PTXDPM\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\sunny\Desktop\PTXDPM\PTXDPM\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\sunny\Desktop\PTXDPM\PTXDPM\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\sunny\Desktop\PTXDPM\PTXDPM\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\sunny\Desktop\PTXDPM\PTXDPM\bin\Microsoft.Owin.dll
+C:\Users\sunny\Desktop\PTXDPM\PTXDPM\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\sunny\Desktop\PTXDPM\PTXDPM\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\sunny\Desktop\PTXDPM\PTXDPM\bin\Microsoft.Owin.Security.dll
+C:\Users\sunny\Desktop\PTXDPM\PTXDPM\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\sunny\Desktop\PTXDPM\PTXDPM\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\sunny\Desktop\PTXDPM\PTXDPM\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\sunny\Desktop\PTXDPM\PTXDPM\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\sunny\Desktop\PTXDPM\PTXDPM\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\sunny\Desktop\PTXDPM\PTXDPM\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\sunny\Desktop\PTXDPM\PTXDPM\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\sunny\Desktop\PTXDPM\PTXDPM\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\sunny\Desktop\PTXDPM\PTXDPM\bin\Newtonsoft.Json.dll
+C:\Users\sunny\Desktop\PTXDPM\PTXDPM\bin\Owin.dll
+C:\Users\sunny\Desktop\PTXDPM\PTXDPM\bin\System.Web.Optimization.dll
+C:\Users\sunny\Desktop\PTXDPM\PTXDPM\bin\System.Web.Providers.dll
+C:\Users\sunny\Desktop\PTXDPM\PTXDPM\bin\WebGrease.dll
+C:\Users\sunny\Desktop\PTXDPM\PTXDPM\bin\Data.pdb
+C:\Users\sunny\Desktop\PTXDPM\PTXDPM\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\sunny\Desktop\PTXDPM\PTXDPM\bin\System.Web.Optimization.xml
+C:\Users\sunny\Desktop\PTXDPM\PTXDPM\bin\Antlr3.Runtime.pdb
+C:\Users\sunny\Desktop\PTXDPM\PTXDPM\bin\Newtonsoft.Json.xml
+C:\Users\sunny\Desktop\PTXDPM\PTXDPM\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\sunny\Desktop\PTXDPM\PTXDPM\bin\EntityFramework.xml
+C:\Users\sunny\Desktop\PTXDPM\PTXDPM\bin\EntityFramework.SqlServer.xml
+C:\Users\sunny\Desktop\PTXDPM\PTXDPM\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\sunny\Desktop\PTXDPM\PTXDPM\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\sunny\Desktop\PTXDPM\PTXDPM\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\sunny\Desktop\PTXDPM\PTXDPM\bin\System.Web.Providers.xml
+C:\Users\sunny\Desktop\PTXDPM\PTXDPM\bin\Microsoft.Owin.xml
+C:\Users\sunny\Desktop\PTXDPM\PTXDPM\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\sunny\Desktop\PTXDPM\PTXDPM\bin\Microsoft.Owin.Security.xml
+C:\Users\sunny\Desktop\PTXDPM\PTXDPM\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\sunny\Desktop\PTXDPM\PTXDPM\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\sunny\Desktop\PTXDPM\PTXDPM\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\sunny\Desktop\PTXDPM\PTXDPM\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\sunny\Desktop\PTXDPM\PTXDPM\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\sunny\Desktop\PTXDPM\PTXDPM\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\sunny\Desktop\PTXDPM\PTXDPM\obj\Debug\PTXDPM.dll
+C:\Users\sunny\Desktop\PTXDPM\PTXDPM\obj\Debug\PTXDPM.pdb
+C:\Users\Mr_Dat\Desktop\Clothes\Source\PTXDPM\PTXDPM\bin\roslyn\csc.exe
+C:\Users\Mr_Dat\Desktop\Clothes\Source\PTXDPM\PTXDPM\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Mr_Dat\Desktop\Clothes\Source\PTXDPM\PTXDPM\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mr_Dat\Desktop\Clothes\Source\PTXDPM\PTXDPM\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Mr_Dat\Desktop\Clothes\Source\PTXDPM\PTXDPM\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Mr_Dat\Desktop\Clothes\Source\PTXDPM\PTXDPM\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Mr_Dat\Desktop\Clothes\Source\PTXDPM\PTXDPM\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Mr_Dat\Desktop\Clothes\Source\PTXDPM\PTXDPM\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Mr_Dat\Desktop\Clothes\Source\PTXDPM\PTXDPM\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Mr_Dat\Desktop\Clothes\Source\PTXDPM\PTXDPM\bin\roslyn\vbc.exe
+C:\Users\Mr_Dat\Desktop\Clothes\Source\PTXDPM\PTXDPM\bin\roslyn\VBCSCompiler.exe
+C:\Users\Mr_Dat\Desktop\Clothes\Source\PTXDPM\PTXDPM\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Mr_Dat\Desktop\Clothes\Source\PTXDPM\PTXDPM\bin\PTXDPM.dll.config
+C:\Users\Mr_Dat\Desktop\Clothes\Source\PTXDPM\PTXDPM\bin\PTXDPM.dll
+C:\Users\Mr_Dat\Desktop\Clothes\Source\PTXDPM\PTXDPM\bin\PTXDPM.pdb
+C:\Users\Mr_Dat\Desktop\Clothes\Source\PTXDPM\PTXDPM\bin\Antlr3.Runtime.dll
+C:\Users\Mr_Dat\Desktop\Clothes\Source\PTXDPM\PTXDPM\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Mr_Dat\Desktop\Clothes\Source\PTXDPM\PTXDPM\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Mr_Dat\Desktop\Clothes\Source\PTXDPM\PTXDPM\bin\Data.dll
+C:\Users\Mr_Dat\Desktop\Clothes\Source\PTXDPM\PTXDPM\bin\EntityFramework.dll
+C:\Users\Mr_Dat\Desktop\Clothes\Source\PTXDPM\PTXDPM\bin\EntityFramework.SqlServer.dll
+C:\Users\Mr_Dat\Desktop\Clothes\Source\PTXDPM\PTXDPM\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Mr_Dat\Desktop\Clothes\Source\PTXDPM\PTXDPM\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Mr_Dat\Desktop\Clothes\Source\PTXDPM\PTXDPM\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Mr_Dat\Desktop\Clothes\Source\PTXDPM\PTXDPM\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Mr_Dat\Desktop\Clothes\Source\PTXDPM\PTXDPM\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Mr_Dat\Desktop\Clothes\Source\PTXDPM\PTXDPM\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Mr_Dat\Desktop\Clothes\Source\PTXDPM\PTXDPM\bin\Microsoft.Owin.dll
+C:\Users\Mr_Dat\Desktop\Clothes\Source\PTXDPM\PTXDPM\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Mr_Dat\Desktop\Clothes\Source\PTXDPM\PTXDPM\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Mr_Dat\Desktop\Clothes\Source\PTXDPM\PTXDPM\bin\Microsoft.Owin.Security.dll
+C:\Users\Mr_Dat\Desktop\Clothes\Source\PTXDPM\PTXDPM\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Mr_Dat\Desktop\Clothes\Source\PTXDPM\PTXDPM\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Mr_Dat\Desktop\Clothes\Source\PTXDPM\PTXDPM\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Mr_Dat\Desktop\Clothes\Source\PTXDPM\PTXDPM\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Mr_Dat\Desktop\Clothes\Source\PTXDPM\PTXDPM\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Mr_Dat\Desktop\Clothes\Source\PTXDPM\PTXDPM\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Mr_Dat\Desktop\Clothes\Source\PTXDPM\PTXDPM\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Mr_Dat\Desktop\Clothes\Source\PTXDPM\PTXDPM\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Mr_Dat\Desktop\Clothes\Source\PTXDPM\PTXDPM\bin\Newtonsoft.Json.dll
+C:\Users\Mr_Dat\Desktop\Clothes\Source\PTXDPM\PTXDPM\bin\Owin.dll
+C:\Users\Mr_Dat\Desktop\Clothes\Source\PTXDPM\PTXDPM\bin\System.Web.Optimization.dll
+C:\Users\Mr_Dat\Desktop\Clothes\Source\PTXDPM\PTXDPM\bin\System.Web.Providers.dll
+C:\Users\Mr_Dat\Desktop\Clothes\Source\PTXDPM\PTXDPM\bin\WebGrease.dll
+C:\Users\Mr_Dat\Desktop\Clothes\Source\PTXDPM\PTXDPM\bin\Data.pdb
+C:\Users\Mr_Dat\Desktop\Clothes\Source\PTXDPM\PTXDPM\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Mr_Dat\Desktop\Clothes\Source\PTXDPM\PTXDPM\bin\System.Web.Optimization.xml
+C:\Users\Mr_Dat\Desktop\Clothes\Source\PTXDPM\PTXDPM\bin\Antlr3.Runtime.pdb
+C:\Users\Mr_Dat\Desktop\Clothes\Source\PTXDPM\PTXDPM\bin\Newtonsoft.Json.xml
+C:\Users\Mr_Dat\Desktop\Clothes\Source\PTXDPM\PTXDPM\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Mr_Dat\Desktop\Clothes\Source\PTXDPM\PTXDPM\bin\EntityFramework.xml
+C:\Users\Mr_Dat\Desktop\Clothes\Source\PTXDPM\PTXDPM\bin\EntityFramework.SqlServer.xml
+C:\Users\Mr_Dat\Desktop\Clothes\Source\PTXDPM\PTXDPM\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Mr_Dat\Desktop\Clothes\Source\PTXDPM\PTXDPM\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Mr_Dat\Desktop\Clothes\Source\PTXDPM\PTXDPM\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Mr_Dat\Desktop\Clothes\Source\PTXDPM\PTXDPM\bin\System.Web.Providers.xml
+C:\Users\Mr_Dat\Desktop\Clothes\Source\PTXDPM\PTXDPM\bin\Microsoft.Owin.xml
+C:\Users\Mr_Dat\Desktop\Clothes\Source\PTXDPM\PTXDPM\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Mr_Dat\Desktop\Clothes\Source\PTXDPM\PTXDPM\bin\Microsoft.Owin.Security.xml
+C:\Users\Mr_Dat\Desktop\Clothes\Source\PTXDPM\PTXDPM\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Mr_Dat\Desktop\Clothes\Source\PTXDPM\PTXDPM\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Mr_Dat\Desktop\Clothes\Source\PTXDPM\PTXDPM\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Mr_Dat\Desktop\Clothes\Source\PTXDPM\PTXDPM\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Mr_Dat\Desktop\Clothes\Source\PTXDPM\PTXDPM\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Mr_Dat\Desktop\Clothes\Source\PTXDPM\PTXDPM\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Mr_Dat\Desktop\Clothes\Source\PTXDPM\PTXDPM\obj\Debug\PTXDPM.csprojResolveAssemblyReference.cache
+C:\Users\Mr_Dat\Desktop\Clothes\Source\PTXDPM\PTXDPM\obj\Debug\PTXDPM.dll
+C:\Users\Mr_Dat\Desktop\Clothes\Source\PTXDPM\PTXDPM\obj\Debug\PTXDPM.pdb
+F:\PTXDPM\PTXDPM\bin\roslyn\csc.exe
+F:\PTXDPM\PTXDPM\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\PTXDPM\PTXDPM\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\PTXDPM\PTXDPM\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\PTXDPM\PTXDPM\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\PTXDPM\PTXDPM\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\PTXDPM\PTXDPM\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\PTXDPM\PTXDPM\bin\roslyn\System.Collections.Immutable.dll
+F:\PTXDPM\PTXDPM\bin\roslyn\System.Reflection.Metadata.dll
+F:\PTXDPM\PTXDPM\bin\roslyn\vbc.exe
+F:\PTXDPM\PTXDPM\bin\roslyn\VBCSCompiler.exe
+F:\PTXDPM\PTXDPM\bin\roslyn\VBCSCompiler.exe.config
+F:\PTXDPM\PTXDPM\bin\PTXDPM.dll.config
+F:\PTXDPM\PTXDPM\bin\PTXDPM.dll
+F:\PTXDPM\PTXDPM\bin\PTXDPM.pdb
+F:\PTXDPM\PTXDPM\bin\Antlr3.Runtime.dll
+F:\PTXDPM\PTXDPM\bin\AspNet.ScriptManager.bootstrap.dll
+F:\PTXDPM\PTXDPM\bin\AspNet.ScriptManager.jQuery.dll
+F:\PTXDPM\PTXDPM\bin\Data.dll
+F:\PTXDPM\PTXDPM\bin\EntityFramework.dll
+F:\PTXDPM\PTXDPM\bin\EntityFramework.SqlServer.dll
+F:\PTXDPM\PTXDPM\bin\Microsoft.AspNet.FriendlyUrls.dll
+F:\PTXDPM\PTXDPM\bin\Microsoft.AspNet.Identity.Core.dll
+F:\PTXDPM\PTXDPM\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\PTXDPM\PTXDPM\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\PTXDPM\PTXDPM\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+F:\PTXDPM\PTXDPM\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\PTXDPM\PTXDPM\bin\Microsoft.Owin.dll
+F:\PTXDPM\PTXDPM\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\PTXDPM\PTXDPM\bin\Microsoft.Owin.Security.Cookies.dll
+F:\PTXDPM\PTXDPM\bin\Microsoft.Owin.Security.dll
+F:\PTXDPM\PTXDPM\bin\Microsoft.Owin.Security.Facebook.dll
+F:\PTXDPM\PTXDPM\bin\Microsoft.Owin.Security.Google.dll
+F:\PTXDPM\PTXDPM\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\PTXDPM\PTXDPM\bin\Microsoft.Owin.Security.OAuth.dll
+F:\PTXDPM\PTXDPM\bin\Microsoft.Owin.Security.Twitter.dll
+F:\PTXDPM\PTXDPM\bin\Microsoft.ScriptManager.MSAjax.dll
+F:\PTXDPM\PTXDPM\bin\Microsoft.ScriptManager.WebForms.dll
+F:\PTXDPM\PTXDPM\bin\Microsoft.Web.Infrastructure.dll
+F:\PTXDPM\PTXDPM\bin\Newtonsoft.Json.dll
+F:\PTXDPM\PTXDPM\bin\Owin.dll
+F:\PTXDPM\PTXDPM\bin\System.Web.Optimization.dll
+F:\PTXDPM\PTXDPM\bin\System.Web.Providers.dll
+F:\PTXDPM\PTXDPM\bin\WebGrease.dll
+F:\PTXDPM\PTXDPM\bin\Data.pdb
+F:\PTXDPM\PTXDPM\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\PTXDPM\PTXDPM\bin\System.Web.Optimization.xml
+F:\PTXDPM\PTXDPM\bin\Antlr3.Runtime.pdb
+F:\PTXDPM\PTXDPM\bin\Newtonsoft.Json.xml
+F:\PTXDPM\PTXDPM\bin\Microsoft.AspNet.FriendlyUrls.xml
+F:\PTXDPM\PTXDPM\bin\EntityFramework.xml
+F:\PTXDPM\PTXDPM\bin\EntityFramework.SqlServer.xml
+F:\PTXDPM\PTXDPM\bin\Microsoft.AspNet.Identity.Core.xml
+F:\PTXDPM\PTXDPM\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\PTXDPM\PTXDPM\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\PTXDPM\PTXDPM\bin\System.Web.Providers.xml
+F:\PTXDPM\PTXDPM\bin\Microsoft.Owin.xml
+F:\PTXDPM\PTXDPM\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\PTXDPM\PTXDPM\bin\Microsoft.Owin.Security.xml
+F:\PTXDPM\PTXDPM\bin\Microsoft.Owin.Security.Facebook.xml
+F:\PTXDPM\PTXDPM\bin\Microsoft.Owin.Security.Cookies.xml
+F:\PTXDPM\PTXDPM\bin\Microsoft.Owin.Security.Google.xml
+F:\PTXDPM\PTXDPM\bin\Microsoft.Owin.Security.Twitter.xml
+F:\PTXDPM\PTXDPM\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\PTXDPM\PTXDPM\bin\Microsoft.Owin.Security.OAuth.xml
+F:\PTXDPM\PTXDPM\obj\Debug\PTXDPM.csprojResolveAssemblyReference.cache
+F:\PTXDPM\PTXDPM\obj\Debug\PTXDPM.dll
+F:\PTXDPM\PTXDPM\obj\Debug\PTXDPM.pdb

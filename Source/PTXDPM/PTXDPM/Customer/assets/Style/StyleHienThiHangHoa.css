@@ -1,0 +1,137 @@
+﻿body {
+}
+
+.DanhSachSanPham {
+    width: 100%;
+    border: 1px solid #c6cccc;
+    float: left;
+    margin:auto;
+}
+
+.TieuDe {
+    width: 100%;
+    background-color: #9074a7;
+    font-family: Helvetica;
+    margin: 2px;
+    float: left;
+    color: #ffffff;
+}
+
+.NoiDungHienThi {
+    margin: 20px auto;
+    width: 100%;
+    float: left;
+}
+
+.TieuDe h5 {
+    padding-left: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.SP {
+    width: 200px;
+    height: 270px;
+    margin: 3px;
+    background-color: #FFE7FF;
+    float:left;
+}
+
+    .SP:hover {
+        background-color: #E7E7E7;
+    }
+
+.TenSP {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    height: 36px;
+    width: 100%;
+    text-align: center;
+    float: left;
+}
+
+.HinhAnhSP {
+    margin-top: 10px;
+    width: 100%;
+    float: left;
+    text-align: center;
+}
+
+.GiaSP {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    width: 100%;
+    text-align: center;
+    color: red;
+    float: left;
+}
+
+.DatMua {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    width: 100%;
+    text-align: center;
+    float: left;
+}
+
+.btnDatMua {
+    text-align: center;
+}
+
+.BagDetail
+{
+	width:70%;
+	float:left;
+	border:1px solid #c6c6c6;
+	padding: 5px;
+}
+.Order
+{
+	width:30%;
+	float:left;
+	border: 1px solid #c6c6c6;
+	padding:20px;
+}
+.Finish
+{
+    border: 1px solid #c6c6c6;
+	padding:20px;
+}
+.ListGroup
+{
+width:1140px;
+height:807px;
+float:left;
+}
+.ChiaBaCot
+{
+	width:360px;
+	float:left;
+	padding-left:20px;
+	height:269px;
+}
+.TenNhom
+{
+float:left;
+	margin:auto;
+}
+.showProduct
+{
+		background:#ffffff;
+		color:#ff6978;
+		width: 95%;
+		float: left;
+		margin:0 1%;
+}
+.showProduct: hover{
+		
+		background:#e9e9e9;
+		
+}
+
+.ChiTietHoaDon
+{
+	border:2px solid #c6c6c6;
+	border-radius:15px;
+	padding:20px;
+}

@@ -1,0 +1,57 @@
+﻿body {
+}
+.ChiTietSanPham
+{
+    width:100%;
+}
+.NenHinhAnh
+{
+    float:left;
+    width:400px;
+    height:330px;
+    background-color:#3b0537;
+    border-radius: 5px;
+}
+.HinhAnh
+{
+    margin:30px auto;
+    margin-left:100px;
+}
+.ChiTiet
+{
+    width:444px;
+    height:330px;
+    float:left;
+}
+.ChiTietSP
+{
+    width:400px;
+    height:140px;
+    margin-left:22px;
+    margin-top:22px;
+    border-radius: 5px;
+    background-color:#c6cccc;
+}
+
+.ChiTietTen
+{
+    width:400px;
+    margin-left:22px;
+    margin-top:22px;
+    border-radius: 5px;
+    background-color:#c6cccc;
+    height:50px;
+}
+.ChiTietGia
+{
+    width:400px;
+    margin-left:22px;
+    margin-top:22px;
+    border-radius: 5px;
+    background-color:#c6cccc;
+    height:50px;
+}
+.ChonMua
+{
+
+}

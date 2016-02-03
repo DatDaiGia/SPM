@@ -1,0 +1,181 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="PTXDPM.Customer.Site" %>
+
+<%@ Register Src="~/UseCotrol/HeadRight.ascx" TagPrefix="uc1" TagName="HeadRight" %>
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+    <title>CrazyClothes Shop</title>
+    <link href="assets/css/bootstrap.css" rel='stylesheet' type='text/css' />
+    <!-- jQuery (necessary JavaScript plugins) -->
+    <script type='text/javascript' src="assets/js/jquery-1.11.1.min.js"></script>
+    <!-- Style cũ) -->
+    <link href="assets/Style/StyleChiTietSanPham.css" rel="stylesheet" />
+    <link href="assets/Style/StyleHienThiHangHoa.css" rel="stylesheet" />
+    <!-- Custom Theme files -->
+    <link href="assets/css/style.css" rel='stylesheet' type='text/css' />
+    <!-- Custom Theme files -->
+    <!--//theme-style-->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="keywords" content="Gretong Responsive web template, Bootstrap Web Templates, Flat Web Templates, Andriod Compatible web template, 
+Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, SonyErricsson, Motorola web design" />
+    <script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
+    <link href='//fonts.googleapis.com/css?family=Roboto:400,100,300,500,700,900' rel='stylesheet' type='text/css'>
+    <link href='//fonts.googleapis.com/css?family=Playfair+Display:400,700,900' rel='stylesheet' type='text/css'>
+    <!-- start menu -->
+    <link href="assets/css/megamenu.css" rel="stylesheet" type="text/css" media="all" />
+    <script type="text/javascript" src="assets/js/megamenu.js"></script>
+    <script>$(document).ready(function () { $(".megamenu").megamenu(); });</script>
+    <!-- su dung scrip cho nav menu -->
+    <script src="assets/js/menu_jquery.js"></script>
+    <script src="assets/js/simpleCart.min.js"> </script>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <!-- header_top -->
+        <div class="top_bg">
+            <div class="container">
+                <div class="header_top">
+                    <div class="top_right">
+                        <ul>
+                            <li><a href="#">Trợ giúp</a></li>
+                            |
+					<li><a href="contact.html">Liên hệ</a></li>
+                            |
+					<li><a href="#">Thông tin giao hàng</a></li>
+                        </ul>
+                    </div>
+                    <div class="top_left">
+                        <h2><span></span>Liên hệ trực tiếp : 01628 282 682</h2>
+                    </div>
+                    <div class="clearfix"></div>
+                </div>
+            </div>
+        </div>
+        <!-- header -->
+        <div class="header_bg">
+            <div class="container">
+                <div class="header">
+                    <div class="head-t">
+                        <div class="logo">
+                            <a href="/Customer/Home.aspx">
+                                <img src="assets/images/logo.png" class="img-responsive" alt="" />
+                            </a>
+                        </div>
+                        <!-- start header_right -->
+                        <uc1:HeadRight runat="server" ID="HeadRight" />
+                        <div class="clearfix"></div>
+                    </div>
+                    <!-- start header menu -->
+                    <ul class="megamenu skyblue">
+                        <li class="active grid"><a class="color1" href="/Customer/Home.aspx">TRANG CHỦ</a></li>
+                        <li class="grid"><a class="color2" href="/Admin/OrderManagement.aspx">QL ĐƠN ĐẶT HÀNG</a></li>
+                        <li class="grid"><a class="color2" href="/Admin/OrderManagement.aspx">QL NHÓM SẢN PHẨM</a></li>
+                        <li class="grid"><a class="color2" href="/Admin/OrderManagement.aspx">QL SẢN PHẨM</a></li>
+                        <li class="grid"><a class="color2" href="/Admin/OrderManagement.aspx">QL KHUYẾN MẠI</a></li>
+                        <li class="grid"><a class="color2" href="/Admin/OrderManagement.aspx">QL ĐƠN QUẢNG CÁO</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="special">
+            <div class="container">
+                <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                </asp:ContentPlaceHolder>
+            </div>
+        </div>
+
+        <div class="foot-top">
+            <div class="container">
+                <div class="col-md-6 s-c">
+                    <li>
+                        <div class="fooll">
+                            <h5>follow us on</h5>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="social-ic">
+                            <ul>
+                                <li><a href="https://www.facebook.com/iwanareset"><i class="facebok"></i></a></li>
+                                <li><a href="#"><i class="twiter"></i></a></li>
+                                <li><a href="#"><i class="goog"></i></a></li>
+                                <li><a href="#"><i class="be"></i></a></li>
+                                <li><a href="#"><i class="pp"></i></a></li>
+                                <div class="clearfix"></div>
+                            </ul>
+                        </div>
+                    </li>
+                    <div class="clearfix"></div>
+                </div>
+                <div class="col-md-6 s-c">
+                    <div class="stay">
+                        <div class="stay-left">
+                            <form>
+                                <input type="text" placeholder="Enter your email to join our newsletter">
+                                <!-- Co the bo qua cai nay -->
+                            </form>
+                        </div>
+                        <div class="btn-1">
+                            <form>
+                                <input type="submit" value="join">
+                            </form>
+                        </div>
+                        <div class="clearfix"></div>
+                    </div>
+                </div>
+                <div class="clearfix"></div>
+            </div>
+        </div>
+        <div class="footer">
+            <div class="container">
+                <div class="col-md-3 cust">
+                    <h4>CHĂM SÓC KHÁCH HÀNG</h4>
+                    <li><a href="#">Trung tâm trợ giúp</a></li>
+                    <li><a href="#">Hỏi đáp</a></li>
+                    <li><a href="#">Làm thế nào để mua hàng</a></li>
+                    <!-- phan nay add thang link page vao-->
+                    <li><a href="#">Phương thức giao hàng</a></li>
+                </div>
+                <div class="col-md-2 abt">
+                    <h4>VỀ  CHÚNG TÔI</h4>
+                    <li><a href="#">Sơ lược về cửa hàng</a></li>
+                    <li><a href="#">Báo chí</a></li>
+                    <li><a href="#">Nghề nghiệp</a></li>
+                    <li><a href="contact.html">Liên hệ</a></li>
+                </div>
+                <div class="col-md-2 myac">
+                    <h4>MY ACCOUNT</h4>
+                    <li><a href="register.html">Đăng ký</a></li>
+                    <li><a href="#">Giỏ hàng</a></li>
+                    <li><a href="#">Lịch sử đặt hàng</a></li>
+                    <li><a href="#">Thanh toán</a></li>
+                </div>
+                <div class="col-md-5 our-st">
+                    <div class="our-left">
+                        <h4>CỬA HÀNG</h4>
+                    </div>
+                    <div class="our-left1">
+                        <div class="cr_btn">
+                            <a href="#">SNDShop</a>
+                        </div>
+                    </div>
+                    <div class="our-left1">
+                        <div class="cr_btn1">
+                            <a href="#">SMarchShop</a>
+                        </div>
+                    </div>
+                    <div class="clearfix"></div>
+                    <li><i class="add"></i>Số 23k3 - Nguyễn Phong Sắc - Cầu Giấy - Hà Nội</li>
+                    <li><i class="phone"></i>01628 282 682</li>
+                    <li><a href="mailto:info@example.com"><i class="mail"></i>Phamhongthuan@rocketmail.com</a></li>
+
+                </div>
+                <div class="clearfix"></div>
+                <p>Copyrights © 2015 Gretong. All rights reserved | Template by <a href="http://w3layouts.com/">W3layouts</a></p>
+            </div>
+        </div>
+    </form>
+</body>
+</html>

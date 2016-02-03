@@ -1,0 +1,19 @@
+c:\Users\sunny\documents\visual studio 2015\Projects\PTXDPM\Data\bin\Debug\Data.dll
+c:\Users\sunny\documents\visual studio 2015\Projects\PTXDPM\Data\bin\Debug\Data.pdb
+c:\Users\sunny\documents\visual studio 2015\Projects\PTXDPM\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+c:\Users\sunny\documents\visual studio 2015\Projects\PTXDPM\Data\obj\Debug\Data.dll
+c:\Users\sunny\documents\visual studio 2015\Projects\PTXDPM\Data\obj\Debug\Data.pdb
+C:\Users\sunny\Desktop\PTXDPM\Data\bin\Debug\Data.dll
+C:\Users\sunny\Desktop\PTXDPM\Data\bin\Debug\Data.pdb
+C:\Users\sunny\Desktop\PTXDPM\Data\obj\Debug\Data.dll
+C:\Users\sunny\Desktop\PTXDPM\Data\obj\Debug\Data.pdb
+C:\Users\sunny\Desktop\PTXDPM\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+C:\Users\Mr_Dat\Desktop\Clothes\Source\PTXDPM\Data\bin\Debug\Data.dll
+C:\Users\Mr_Dat\Desktop\Clothes\Source\PTXDPM\Data\bin\Debug\Data.pdb
+C:\Users\Mr_Dat\Desktop\Clothes\Source\PTXDPM\Data\obj\Debug\Data.dll
+C:\Users\Mr_Dat\Desktop\Clothes\Source\PTXDPM\Data\obj\Debug\Data.pdb
+F:\PTXDPM\Data\bin\Debug\Data.dll
+F:\PTXDPM\Data\bin\Debug\Data.pdb
+F:\PTXDPM\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+F:\PTXDPM\Data\obj\Debug\Data.dll
+F:\PTXDPM\Data\obj\Debug\Data.pdb

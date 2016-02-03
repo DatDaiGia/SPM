@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PTXDPM", "PTXDPM\PTXDPM.csproj", "{10B2E6BE-75CE-4D9A-AC4B-D6117EAF3BFE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data", "Data\Data.csproj", "{7ACF7779-FA27-4C93-8915-15AE9E1CC999}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10B2E6BE-75CE-4D9A-AC4B-D6117EAF3BFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10B2E6BE-75CE-4D9A-AC4B-D6117EAF3BFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10B2E6BE-75CE-4D9A-AC4B-D6117EAF3BFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10B2E6BE-75CE-4D9A-AC4B-D6117EAF3BFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7ACF7779-FA27-4C93-8915-15AE9E1CC999}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7ACF7779-FA27-4C93-8915-15AE9E1CC999}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7ACF7779-FA27-4C93-8915-15AE9E1CC999}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7ACF7779-FA27-4C93-8915-15AE9E1CC999}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
